@@ -6,7 +6,7 @@
 - 📫  How to reach me: [微博](https://weibo.com/xheldon)   [知乎](https://www.zhihu.com/people/xheldon)   [Blog(chinese)](https://xheldon.com)   [Twitter](https://twitter.com/_xheldon)
 - ⚡  Fun fact: I really like to use english punctuation in chinese, but it's not beauty sometime, so I try to fix it now ;-)
 
-### 你好！我叫 Xheldon，欢迎！
+### 你好，我叫 Xheldon，欢迎！
 
 - 👨🏻‍💻   我今年 28 岁，是一名在北京「生存」（哈哈）的前端工程师。
 - 🌱  我正在学习 ProseMirror、TypeScript、Electron、以及...英语！（所以请用英语和我说话）
