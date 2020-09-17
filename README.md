@@ -3,7 +3,7 @@
 - 👨🏻‍💻   I'm 28 years old, a Front-End developer, 「alive」(haha) in Beijing, China.
 - 🌱  I’m currently learning ProseMirror/TypeScript/Electron, and...English(talk me in english)!
 - 🧙🏻‍♂️  I’m looking to collaborate on translate ProseMirror Doc to chinese, click [here](https://github.com/xheldon-prosemirror/prosemirror) to know more. feeling cool? contact me😉.
-- 📫  How to reach me: [微博](https://weibo.com/xheldon)  |  [知乎](https://www.zhihu.com/people/xheldon)  |  [Blog(chinese)](https://xheldon.com)  |  [Twitter](https://twitter.com/_xheldon)  |  [Telegram(chinese)](https://t.me/xheldon_saloon)
+- 📫  How to reach me: [Weibo](https://weibo.com/xheldon)  |  [Zhihu](https://www.zhihu.com/people/xheldon)  |  [Blog(chinese)](https://xheldon.com)  |  [Twitter](https://twitter.com/_xheldon)  |  [Telegram(chinese)](https://t.me/xheldon_saloon)
 - ⚡  Fun fact: I really like to use english punctuation in chinese, but it's not beauty sometime, so I try to fix it now ;-)
 
 ### 你好，我叫 Xheldon，欢迎！
